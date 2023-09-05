@@ -1,0 +1,21 @@
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.csproj.AssemblyReference.cache
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.csproj.SuggestedBindingRedirects.cache
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.Form1.resources
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.Properties.Resources.resources
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.csproj.GenerateResource.cache
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.csproj.CoreCompileInputs.cache
+C:\Users\이성민\source\repos\proagain1\proagain1\bin\Debug\proagain1.exe.config
+C:\Users\이성민\source\repos\proagain1\proagain1\bin\Debug\proagain1.exe
+C:\Users\이성민\source\repos\proagain1\proagain1\bin\Debug\proagain1.pdb
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.exe
+C:\Users\이성민\source\repos\proagain1\proagain1\obj\Debug\proagain1.pdb
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\bin\Debug\proagain1.exe.config
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\bin\Debug\proagain1.exe
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\bin\Debug\proagain1.pdb
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\obj\Debug\proagain1.csprojAssemblyReference.cache
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\obj\Debug\proagain1.Form1.resources
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\obj\Debug\proagain1.Properties.Resources.resources
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\obj\Debug\proagain1.csproj.GenerateResource.cache
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\obj\Debug\proagain1.csproj.CoreCompileInputs.cache
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\obj\Debug\proagain1.exe
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\proagain1\obj\Debug\proagain1.pdb
